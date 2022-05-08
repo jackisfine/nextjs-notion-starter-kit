@@ -12,7 +12,6 @@
   --notion-header-height: 54px;
 }
 
-/*  notion内部页面设置 */
 .notion-page {
   padding-bottom: calc(max(5vh, 32px)) !important;
   line-height: 1.65;
@@ -61,7 +60,7 @@
 }
 
 .notion-gallery-grid .notion-page-title-text {
-  font-size: 2em;
+  font-size: 1em;
   white-space: unset;
 }
 
@@ -70,35 +69,31 @@
   text-overflow: unset;
 }
 
-/*未发现用途*/
 .notion-gallery-grid .notion-property-text {
-  font-size: 1px;
+  font-size: 14px;
 }
 
-/*未发现用途*/
 .notion-collection-card {
-  border-radius: 2px;
+  border-radius: 16px;
   box-shadow: none;
 }
 
-/*未发现用途*/
 .notion-collection-card-cover img {
-  border-radius: 2px;
+  border-radius: 16px;
+  margin:25px
 }
 
 .notion-collection-card {
   overflow: visible;
 }
 
-/*未发现用途*/
 .notion-collection-card-cover {
-  border-radius: 2px;
+  border-radius: 16px;
   box-shadow: 2px 2px 8px 4px rgba(15, 15, 15, 0.1);
 }
 
-/*未发现用途*/
 .notion-collection-card-cover {
-  border-bottom: 20 none;
+  border-bottom: 0 none;
   transition: filter 150ms linear;
   filter: none;
 }
@@ -193,24 +188,22 @@
   min-height: 23px;
 }
 
-/*未发现用途*/
 .notion-page-cover-wrapper,
 .notion-page-cover-wrapper span,
 .notion-page-cover-wrapper img {
-  max-width: 120px !important;
-  border-radius: 2px;
+  max-width: 1200px !important;
+  border-radius: 24px;
 }
 
 .notion-page-cover-wrapper {
   box-shadow: 2px 2px 8px 4px rgba(15, 15, 15, 0.1);
 }
 
-/*未发现用途*/
 @media only screen and (max-width: 1200px) {
   .notion-page-cover-wrapper,
   .notion-page-cover-wrapper span,
   .notion-page-cover-wrapper img {
-    border-radius: 30;
+    border-radius: 0;
   }
 }
 
@@ -218,7 +211,6 @@
   justify-content: center;
   padding: 2em;
 }
-
 
 .notion-code {
   background: rgba(249, 250, 251, 1);
@@ -336,7 +328,6 @@
   );
 }
 
-/*修改网站顶部图片*/
 /* disable highlighting in dark mode */
 .dark-mode .notion-red_background,
 .dark-mode .notion-pink_background,
@@ -358,8 +349,6 @@
   border-radius: 50%;
   box-shadow: 0 8px 40px 0 rgb(0 0 0 / 21%);
 }
-
-
 .notion-page-icon-hero.notion-page-icon-image span,
 .notion-page-icon-hero.notion-page-icon-image img {
   border-radius: 50%;
