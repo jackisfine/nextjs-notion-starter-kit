@@ -70,12 +70,13 @@
   text-overflow: unset;
 }
 
+/*未发现用途*/
 .notion-gallery-grid .notion-property-text {
   font-size: 1px;
 }
 
 .notion-collection-card {
-  border-radius: 16px;
+  border-radius: 2px;
   box-shadow: none;
 }
 
