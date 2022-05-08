@@ -69,7 +69,7 @@
 }
 
 .notion-gallery-grid .notion-property-text {
-  font-size: 1px;
+  font-size: 14px;
 }
 
 .notion-collection-card {
@@ -87,7 +87,7 @@
 
 .notion-collection-card-cover {
   border-radius: 16px;
-  box-shadow: 2px 2px 8px 4px rgba(15, 15, 15, 0.1);
+  box-shadow: 10px 10px 8px 4px rgba(15, 15, 15, 0.1);
 }
 
 .notion-collection-card-cover {
