@@ -86,12 +86,12 @@
 }
 
 .notion-collection-card-cover {
+  margin: 10px;
   border-radius: 16px;
   box-shadow: 2px 2px 8px 4px rgba(15, 15, 15, 0.1);
 }
 
 .notion-collection-card-cover {
-  margin: 20px;
   border-bottom: 0 none;
   transition: filter 150ms linear;
   filter: none;
