@@ -197,7 +197,7 @@
 .notion-page-cover-wrapper,
 .notion-page-cover-wrapper span,
 .notion-page-cover-wrapper img {
-  max-width: 1200px !important;
+  max-width: 120px !important;
   border-radius: 2px;
 }
 
