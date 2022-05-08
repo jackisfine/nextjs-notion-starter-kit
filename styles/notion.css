@@ -8,6 +8,10 @@
  */
 
 .notion {
+  font-size: 14px;
+}
+
+.notion {
   --notion-max-width: 720px;
   --notion-header-height: 54px;
 }
