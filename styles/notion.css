@@ -78,6 +78,7 @@
 }
 
 .notion-collection-card-cover img {
+  margin: 30px;
   border-radius: 16px;
 }
 
