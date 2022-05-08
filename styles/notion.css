@@ -78,7 +78,6 @@
 }
 
 .notion-collection-card-cover img {
-  margin: 30px;
   border-radius: 16px;
 }
 
@@ -87,7 +86,6 @@
 }
 
 .notion-collection-card-cover {
-  margin: 30px;
   border-radius: 16px;
   box-shadow: 2px 2px 8px 4px rgba(15, 15, 15, 0.1);
 }
