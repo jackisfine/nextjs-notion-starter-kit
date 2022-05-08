@@ -89,10 +89,11 @@
 .notion-collection-card-cover {
   border-radius: 16px;
   box-shadow: 2px 2px 8px 4px rgba(15, 15, 15, 0.1);
-  margin: 20px
+  margin: 20px;
 }
 
 .notion-collection-card-cover {
+  margin: 20px;
   border-bottom: 0 none;
   transition: filter 150ms linear;
   filter: none;
@@ -112,6 +113,7 @@
   _:future,
   :root,
   .notion-collection-card-cover {
+    margin: 20px;
     transition: none 0ms linear;
   }
 }
