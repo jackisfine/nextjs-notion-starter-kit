@@ -36,11 +36,11 @@
 
 .notion-asset-wrapper-video > div,
 .notion-asset-wrapper-video video {
-  width: 100% !important;
+  width: 80% !important;
 }
 
 .notion-header .notion-nav-header {
-  max-width: 1100px;
+  max-width: 110px;
   margin: 0 auto;
 }
 
@@ -87,7 +87,7 @@
 
 .notion-collection-card-cover {
   border-radius: 16px;
-  box-shadow: 10px 10px 8px 4px rgba(15, 15, 15, 0.1);
+  box-shadow: 2px 2px 8px 4px rgba(15, 15, 15, 0.1);
 }
 
 .notion-collection-card-cover {
