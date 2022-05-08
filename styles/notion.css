@@ -59,7 +59,7 @@
 }
 
 .notion-gallery-grid .notion-page-title-text {
-  font-size: 0.2em;
+  font-size: 2em;
   white-space: unset;
 }
 
@@ -69,7 +69,7 @@
 }
 
 .notion-gallery-grid .notion-property-text {
-  font-size: 10px;
+  font-size: 14px;
 }
 
 .notion-collection-card {
@@ -121,7 +121,7 @@
   padding: 0.2em 0.75em;
   line-height: 1.5;
   font-style: italic;
-  font-size: 1em;
+  font-size: 1.2em;
   border-left: 4px solid #67bdfc;
 }
 
